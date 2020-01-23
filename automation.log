@@ -1,0 +1,138 @@
+01/10/20 02:26:44 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 02:26:44 PM-HomePageSearchProduct-INFO:Cannot Send data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 02:26:47 PM-HomePageSearchProduct-INFO:Element not found with locator://input[@value='Go']and locatorTypexpath
+01/10/20 02:26:47 PM-HomePageSearchProduct-INFO:Cannot click on the element with locator://input[@value='Go']locatorTypexpath
+01/10/20 02:26:47 PM-HomePageSearchProduct-INFO:Element not found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorTypexpath
+01/10/20 02:26:47 PM-HomePageSearchProduct-INFO:Cannot click on the element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 02:28:17 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 02:28:17 PM-HomePageSearchProduct-INFO:Cannot Send data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 02:28:20 PM-HomePageSearchProduct-INFO:Element not found with locator://input[@value='Go']and locatorTypexpath
+01/10/20 02:28:20 PM-HomePageSearchProduct-INFO:Cannot click on the element with locator://input[@value='Go']locatorTypexpath
+01/10/20 02:28:20 PM-HomePageSearchProduct-INFO:Element not found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorTypexpath
+01/10/20 02:28:20 PM-HomePageSearchProduct-INFO:Cannot click on the element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 02:28:39 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 02:28:40 PM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 02:28:43 PM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/10/20 02:28:46 PM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/10/20 02:28:46 PM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/10/20 02:28:46 PM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 02:28:49 PM-AddToCart-INFO:Switched to the child window
+01/10/20 02:28:53 PM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/10/20 02:28:55 PM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/10/20 03:21:51 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 03:21:51 PM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 03:21:54 PM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/10/20 03:22:01 PM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/10/20 03:22:01 PM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/10/20 03:22:02 PM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 03:22:05 PM-AddToCart-INFO:Switched to the child window
+01/10/20 03:22:36 PM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/10/20 03:22:40 PM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/10/20 03:22:40 PM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/10/20 03:22:40 PM-AddToCart-INFO:Text web element is captured
+01/10/20 04:51:25 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 04:51:25 PM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 04:51:28 PM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/10/20 04:51:40 PM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/10/20 04:51:40 PM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/10/20 04:51:41 PM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 04:51:44 PM-AddToCart-INFO:Switched to the child window
+01/10/20 04:51:47 PM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/10/20 04:51:53 PM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/10/20 04:51:53 PM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/10/20 04:51:53 PM-AddToCart-INFO:Text web element is captured
+01/10/20 05:44:25 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 05:44:25 PM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 05:44:28 PM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/10/20 05:44:35 PM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/10/20 05:44:35 PM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/10/20 05:44:35 PM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 05:44:38 PM-AddToCart-INFO:Switched to the child window
+01/10/20 05:45:48 PM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/10/20 05:45:50 PM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/10/20 05:45:51 PM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/10/20 05:45:51 PM-AddToCart-INFO:Text web element is captured
+01/10/20 05:53:32 PM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/10/20 05:53:32 PM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/10/20 05:53:35 PM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/10/20 05:53:43 PM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/10/20 05:53:43 PM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/10/20 05:53:43 PM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/10/20 05:53:46 PM-AddToCart-INFO:Switched to the child window
+01/10/20 05:54:38 PM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/10/20 05:54:39 PM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/10/20 05:54:51 PM-AddToCart-INFO:Element not found with locator://h1[@class='a-size-medium a-text-bold']and locatorTypexpath
+01/10/20 05:54:51 PM-AddToCart-INFO:Text web element is not captured
+01/11/20 08:54:13 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 08:54:13 AM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 08:54:16 AM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/11/20 08:54:19 AM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/11/20 08:54:19 AM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/11/20 08:54:20 AM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 08:54:23 AM-AddToCart-INFO:Switched to the child window
+01/11/20 08:54:27 AM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/11/20 08:54:29 AM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/11/20 08:54:29 AM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/11/20 08:54:29 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:09:38 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 09:09:38 AM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 09:09:41 AM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/11/20 09:09:44 AM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/11/20 09:09:44 AM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/11/20 09:09:45 AM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 09:09:48 AM-AddToCart-INFO:Switched to the child window
+01/11/20 09:09:52 AM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/11/20 09:09:53 AM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/11/20 09:09:53 AM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/11/20 09:09:53 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:19:06 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 09:19:07 AM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 09:19:10 AM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/11/20 09:19:12 AM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/11/20 09:19:12 AM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/11/20 09:19:13 AM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 09:19:16 AM-AddToCart-INFO:Switched to the child window
+01/11/20 09:19:20 AM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/11/20 09:19:22 AM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/11/20 09:19:22 AM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/11/20 09:19:22 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:19:22 AM-AddToCart-INFO:Element found with locator://a[@id='hlb-view-cart-announce']and locatorType:xpath
+01/11/20 09:19:24 AM-AddToCart-INFO:clicked on element with locator://a[@id='hlb-view-cart-announce']locatorTypexpath
+01/11/20 09:19:24 AM-AddToCart-INFO:Element found with locator:(//span[contains(text(),'Apple iPhone XR (64GB) - Black')])[1]and locatorType:xpath
+01/11/20 09:19:24 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:25:33 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 09:25:33 AM-HomePageSearchProduct-INFO:Cannot Send data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 09:25:36 AM-HomePageSearchProduct-INFO:Element not found with locator://input[@value='Go']and locatorTypexpath
+01/11/20 09:25:36 AM-HomePageSearchProduct-INFO:Cannot click on the element with locator://input[@value='Go']locatorTypexpath
+01/11/20 09:25:36 AM-HomePageSearchProduct-INFO:Element not found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorTypexpath
+01/11/20 09:25:36 AM-HomePageSearchProduct-INFO:Cannot click on the element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 09:26:09 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 09:26:09 AM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 09:26:12 AM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/11/20 09:26:15 AM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/11/20 09:26:15 AM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/11/20 09:26:15 AM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 09:26:18 AM-AddToCart-INFO:Switched to the child window
+01/11/20 09:26:22 AM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/11/20 09:26:25 AM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/11/20 09:26:25 AM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/11/20 09:26:25 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:26:25 AM-AddToCart-INFO:Element found with locator://a[@id='hlb-view-cart-announce']and locatorType:xpath
+01/11/20 09:26:27 AM-AddToCart-INFO:clicked on element with locator://a[@id='hlb-view-cart-announce']locatorTypexpath
+01/11/20 09:26:27 AM-AddToCart-INFO:Element found with locator:(//span[contains(text(),'Apple iPhone XR (64GB) - Black')])[1]and locatorType:xpath
+01/11/20 09:26:27 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:35:55 AM-HomePageSearchProduct-INFO:Element found with locator:twotabsearchtextboxand locatorType:id
+01/11/20 09:35:56 AM-HomePageSearchProduct-INFO:Sent data on element with locator: twotabsearchtextbox locator type: id
+01/11/20 09:35:59 AM-HomePageSearchProduct-INFO:Element found with locator://input[@value='Go']and locatorType:xpath
+01/11/20 09:36:02 AM-HomePageSearchProduct-INFO:clicked on element with locator://input[@value='Go']locatorTypexpath
+01/11/20 09:36:02 AM-HomePageSearchProduct-INFO:Element found with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]and locatorType:xpath
+01/11/20 09:36:03 AM-HomePageSearchProduct-INFO:clicked on element with locator:(//span[text()='Apple iPhone XR (64GB) - Black'])[2]locatorTypexpath
+01/11/20 09:36:06 AM-AddToCart-INFO:Switched to the child window
+01/11/20 09:36:10 AM-AddToCart-INFO:Element found with locator://input[@id='add-to-cart-button']and locatorType:xpath
+01/11/20 09:36:12 AM-AddToCart-INFO:clicked on element with locator://input[@id='add-to-cart-button']locatorTypexpath
+01/11/20 09:36:12 AM-AddToCart-INFO:Element found with locator://h1[@class='a-size-medium a-text-bold']and locatorType:xpath
+01/11/20 09:36:12 AM-AddToCart-INFO:Text web element is captured
+01/11/20 09:36:12 AM-AddToCart-INFO:Element found with locator://a[@id='hlb-view-cart-announce']and locatorType:xpath
+01/11/20 09:36:14 AM-AddToCart-INFO:clicked on element with locator://a[@id='hlb-view-cart-announce']locatorTypexpath
+01/11/20 09:36:14 AM-AddToCart-INFO:Element found with locator:(//span[contains(text(),'Apple iPhone XR (64GB) - Black')])[1]and locatorType:xpath
+01/11/20 09:36:14 AM-AddToCart-INFO:Text web element is captured
